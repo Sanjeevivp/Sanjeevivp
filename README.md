@@ -21,6 +21,6 @@
 ### 🛠️ Languages-Frameworks-Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,angular,react,figma,firebase,tailwind,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,angular,react" />
 </p>
 ---
