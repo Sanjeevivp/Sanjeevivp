@@ -18,10 +18,10 @@
 
 ---
 
-### 🛠️ Languages-Frameworks-Tools
+### 💻 Languages & Technologies I Know
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,figma,firebase,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,angular" />
 </p>
 
 ---
