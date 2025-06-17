@@ -23,3 +23,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,angular,react" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sanjeevivp&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjeevivp" />
+</p>
